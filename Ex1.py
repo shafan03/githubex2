@@ -7,4 +7,4 @@ def is_prime(n):
             return False
     return True
 # test the function
-print(is_prime(11),)  # True
+print(is_prime(11))  # True
